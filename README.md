@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Vasya564/qr-code-component)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://starlit-haupia-7787a7.netlify.app/)
 
 ## My process
 
@@ -35,5 +35,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@Vasya564](https://www.frontendmentor.io/profile/Vasya564)
-- LinkedIn - [@Vasyl Dudla](https://www.linkedin.com/in/vasyl-dudla-472b651a7/)
+- Frontend Mentor - [Vasya564](https://www.frontendmentor.io/profile/Vasya564)
+- LinkedIn - [Vasyl Dudla](https://www.linkedin.com/in/vasyl-dudla-472b651a7/)
