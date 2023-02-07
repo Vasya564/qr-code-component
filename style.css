@@ -68,7 +68,7 @@ body{
 .card{
     display: grid;
     background-color: var(--color-primary);
-    border-radius: 1.5rem;
+    border-radius: 1.25rem;
     padding: 1rem;
     margin: 1.75rem;
     text-align: center;
@@ -76,7 +76,7 @@ body{
 }
 
 .card__img{
-    border-radius: 0.75rem;
+    border-radius: 0.6rem;
     overflow: hidden;
 }
 
@@ -86,7 +86,7 @@ body{
 
 .card__title{
     font-weight: var(--fw-semibold);
-    font-size: 1.3rem;
+    font-size: 1.35rem;
     color: var(--color-primary-text);
     line-height: 1.25;
 }
@@ -94,4 +94,5 @@ body{
 .card__description{
     color: var(--color-secondary-text);
     font-weight: var(--fw-regular);
+    line-height: 1.2;
 }
